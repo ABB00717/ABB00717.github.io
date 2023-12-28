@@ -31,6 +31,8 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+title: ABB00717's Blog
+description: Here, you can find everything about ABB00717
 plugins:
   - jekyll-feed
 
